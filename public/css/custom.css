@@ -1,0 +1,665 @@
+body * {
+  font-family: "Roboto", sans-serif !important;
+  font-size: 14px;
+}
+.align-right {
+  text-align: right;
+}
+.inline-form-element {
+  display: inline-block;
+  width: 300px;
+  margin-right: 10px;
+}
+.color-white {
+  color: #ffffff !important;
+}
+select {
+  font-family: "Roboto", sans-serif !important;
+}
+.get-pl .get-box {
+  fill: #5867dd !important;
+  stroke: #5867dd !important;
+}
+.get-gl .get-box {
+  fill: #00c5dc !important;
+  stroke: #00c5dc !important;
+}
+.get-sl .get-box {
+  fill: #ffb822 !important;
+  stroke: #ffb822 !important;
+}
+.get-ul .get-box {
+  fill: #f4516c !important;
+  stroke: #f4516c !important;
+}
+.boldfont {
+  font-weight: 600 !important;
+}
+.addressspan span {
+  display: block;
+  width: 270px !important;
+  word-wrap: break-word !important;
+  white-space: normal;
+}
+.fw-600 {
+  font-weight: 600;
+}
+.txarea-height {
+  min-height: 100px !important;
+}
+.align-center {
+  text-align: center;
+}
+
+.delivery-info {
+  display: inline-block;
+}
+
+.delivery-status {
+  display: inline-block;
+  vertical-align: top;
+  float: right;
+}
+
+.withdraw-container .m-widget27 .m-widget27__pic > img {
+  width: 100%;
+  height: 210px;
+}
+
+.width-200 {
+  width: 200px;
+}
+
+.thumbnail img {
+  width: 100%;
+}
+.thumbnail {
+  display: block;
+}
+.padding-10 {
+  padding: 10px !important;
+}
+
+.c-pointer {
+  cursor: pointer;
+}
+
+.remove-vimages {
+  position: absolute;
+  right: 0px;
+  top: -17px;
+}
+.inline-block {
+  display: inline-block;
+}
+.width-290 {
+  width: 290px;
+}
+
+.country_code {
+  background-color: #fff;
+  border-color: #f4f5f7;
+}
+
+.font15 {
+  font-weight: 500;
+  font-size: 15px;
+}
+.font13 {
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.font14 {
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.font12 {
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.valign-top {
+  vertical-align: top !important;
+}
+
+.mg40 {
+  margin: 40px;
+}
+.dimensionx {
+  margin: auto;
+}
+.la,
+.close,
+.check-mark,
+.fc-icon,
+.glyphicon {
+  font-family: LineAwesome !important;
+}
+
+/* Added by Hardik Shah - 19-04-2019 */
+
+.table thead th {
+  font-weight: 600 !important;
+  border: 1px 0px 1px 0px solid #f4f5f8 !important;
+  border-width: 0px !important;
+}
+
+.widget-title {
+  font-weight: 600 !important;
+  font-size: 15px !important;
+}
+
+.form-control {
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  height: calc(2.95rem + 10px);
+}
+
+label {
+  font-size: 14px !important;
+  font-weight: 400 !important;
+}
+
+.m-aside-menu
+.m-menu__nav
+> .m-menu__item
+> .m-menu__heading
+.m-menu__link-text,
+.m-aside-menu .m-menu__nav > .m-menu__item > .m-menu__link .m-menu__link-text {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+}
+
+.m-aside-menu.m-aside-menu--skin-dark
+.m-menu__nav
+> .m-menu__item
+> .m-menu__heading
+.m-menu__link-text,
+.m-aside-menu.m-aside-menu--skin-dark
+.m-menu__nav
+> .m-menu__item
+> .m-menu__link
+.m-menu__link-text {
+  color: white !important;
+}
+
+.m-aside-menu.m-aside-menu--skin-dark
+.m-menu__nav
+> .m-menu__item.m-menu__item--active
+> .m-menu__heading
+.m-menu__link-text,
+.m-aside-menu.m-aside-menu--skin-dark
+.m-menu__nav
+> .m-menu__item.m-menu__item--active
+> .m-menu__link
+.m-menu__link-text {
+  color: #ee0000 !important;
+}
+/* Added by Dharati patel - 24-04-2019 */
+.listpageedit {
+  position: absolute;
+  will-change: transform;
+  top: 0px;
+  left: 0px;
+  transform: translate3d(0px, 5px, 0px);
+}
+.bold {
+  font-weight: 600 !important;
+}
+.mb15 {
+  margin-bottom: 15px;
+}
+.mt9 {
+  margin-top: 9px;
+}
+.m-body .m-content {
+  padding: 10px 30px 30px 30px;
+}
+.m-subheader {
+  padding: 14px 30px 0 30px;
+}
+.linkremove {
+  color: rgb(87, 89, 98);
+}
+.mainheader-font {
+  font-size: 22px;
+  color: white;
+}
+.ml115 {
+  margin-left: 115px;
+}
+.bcolorm10 {
+  color: orange;
+  margin-right: 3px;
+}
+.m2 {
+  margin: 2px;
+}
+/*add font size 10*/
+.fs10 {
+  font-size: 11px;
+}
+a.dropdown-item.update_wallet {
+  cursor: pointer;
+  color: #575962;
+}
+/*add font size 20px*/
+.fs20 {
+  font-size: 20px !important;
+}
+.pt15 {
+  padding-top: 15px !important;
+}
+#postal-code-modal .modal-title {
+  font-size: 17px;
+  font-weight: bold;
+}
+.view-header-row {
+  border-bottom: 1px solid #ebedf2;
+}
+.view-header {
+  font-size: 20px;
+  color: #ee0000;
+}
+#postalcode-body .pagination {
+  float: right;
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+  border-radius: 0.25rem;
+}
+#postalcode-body .pagination li {
+  background: #ebe9f2;
+  border-radius: 50%;
+  cursor: pointer;
+  display: inline-block;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -moz-justify-content: center;
+  -ms-justify-content: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -moz-align-items: center;
+  -ms-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+  vertical-align: middle;
+  height: 3rem;
+  min-width: 3rem;
+  vertical-align: middle;
+  padding: 0.5rem;
+  text-align: center;
+  position: relative;
+  font-size: 1rem;
+  line-height: 1rem;
+  font-weight: 400;
+  margin-left: 5px;
+}
+#postalcode-body .pagination a {
+  color: #898b96;
+  border: 0;
+}
+#postalcode-body .pagination .active {
+  background: #ee0000;
+  color: #fff;
+}
+#postalcode-body .pagination li:hover {
+  background: #ee0000;
+}
+#postalcode-body .pagination li:hover a,
+#postalcode-body .pagination li:hover span {
+  color: #fff;
+  text-decoration: none;
+}
+/*agent pagination*/
+#agentlist-body .pagination {
+  float: right;
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+  border-radius: 0.25rem;
+}
+.pagination li {
+  background: #ebe9f2;
+  border-radius: 50%;
+  cursor: pointer;
+  display: inline-block;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -moz-justify-content: center;
+  -ms-justify-content: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -moz-align-items: center;
+  -ms-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+  vertical-align: middle;
+  height: 3rem;
+  min-width: 3rem;
+  vertical-align: middle;
+  padding: 0.5rem;
+  text-align: center;
+  position: relative;
+  font-size: 1rem;
+  line-height: 1rem;
+  font-weight: 400;
+  margin-left: 5px;
+}
+#agentlist-body .pagination a {
+  color: #898b96;
+  border: 0;
+}
+#agentlist-body .pagination .active {
+  background: #ee0000;
+  color: #fff;
+}
+#agentlist-body .pagination li:hover {
+  background: #ee0000;
+}
+#agentlist-body .pagination li:hover a,
+#agentlist-body .pagination li:hover span {
+  color: #fff;
+  text-decoration: none;
+}
+.has-error small {
+  color: #f4516c;
+}
+.hide-element {
+  display: none;
+}
+.minh200  
+{min-height: 170px;
+}
+.child-value{
+  font-size: 9px;
+}
+.child{
+  font-size: 14px;
+}
+.child-title{
+  font-size: 10px;
+}
+.Gold{
+  color:#d4af37
+}
+.Silver{
+  color:#565656
+}
+.Diamond{
+  color:#0000ff
+}
+.Executive{
+  color:#5f00b8
+}
+.Customer{
+  color:#390076
+}
+.Platinum{
+  color:#88562e
+}
+.Sales{
+  color:#ef7d3c
+}
+.Finance{
+  color:#2673b8
+}
+.Shipping{
+  color:#2673b8
+}
+.Receptionist{
+  color:#00008b
+}
+.tracking{
+  color:#dfe5c9
+}
+.Operation{
+  color:#384c9d
+}
+.mt5 {
+  margin-top: 9px;
+}
+.helpBlock{
+  color: red;
+}
+.d-none{
+  display: none;
+}
+.select2-container {
+  min-width: 400px;
+}
+
+.select2-results__option {
+  padding-right: 20px;
+  vertical-align: middle;
+}
+.select2-results__option:before {
+  content: "";
+  display: inline-block;
+  position: relative;
+  height: 20px;
+  width: 20px;
+  border: 2px solid #e9e9e9;
+  border-radius: 4px;
+  background-color: #fff;
+  margin-right: 20px;
+  vertical-align: middle;
+}
+.select2-results__option[aria-selected=true]:before {
+  font-family:fontAwesome;
+  content: "\2713";
+  color: #fff;
+  background-color: #f77750;
+  border: 0;
+  display: inline-block;
+  padding-left: 3px;
+}
+.select2-container--default .select2-results__option[aria-selected=true] {
+  background-color: #fff;
+}
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+  background-color: #eaeaeb;
+  color: #272727;
+}
+.select2-container--default .select2-selection--multiple {
+  margin-bottom: 10px;
+}
+.select2-container--default.select2-container--open.select2-container--below .select2-selection--multiple {
+  border-radius: 4px;
+}
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+  border-color: #f77750;
+  border-width: 2px;
+}
+.select2-container--default .select2-selection--multiple {
+  border-width: 2px;
+}
+.select2-container--open .select2-dropdown--below {
+
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+
+}
+.select2-selection .select2-selection--multiple:after {
+  content: 'hhghgh';
+}
+/* select with icons badges single*/
+.select-icon .select2-selection__placeholder .badge {
+  display: none;
+}
+.select-icon .placeholder {
+  display: none;
+}
+.select-icon .select2-results__option:before,
+.select-icon .select2-results__option[aria-selected=true]:before {
+  display: none !important;
+  /* content: "" !important; */
+}
+.select-icon  .select2-search--dropdown {
+  display: none;
+}
+.form-control[readonly] {
+  background-color: #ebedf2;
+}
+.pagination li.active {
+  background: #ee0000;
+  color: #fff;
+}
+.pagination li {
+  border-radius: 50%;
+  cursor: pointer;
+  display: inline-block;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -moz-justify-content: center;
+  -ms-justify-content: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -moz-align-items: center;
+  -ms-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+  vertical-align: middle;
+  height: 2.25rem;
+  min-width: 2.25rem;
+  vertical-align: middle;
+  padding: 0.5rem;
+  text-align: center;
+  position: relative;
+  font-size: 1rem;
+  line-height: 1rem;
+  font-weight: 400;
+  color: #898b96;
+  border: 0;
+}
+
+.pagination li a{
+  color: #898b96;
+}
+.pagination{
+  float: right;
+}
+
+.notoppadding{
+  padding-top: 0 !important;
+}
+
+.remove_content{
+  margin-top: 28px !important;
+}
+
+/*chat*/
+.message-input {
+  height: 90px !important;
+}
+.chat-avatar {
+  width: 36px;
+  height: 36px;
+  float: left;
+  margin-right: 10px;
+}
+.chat-user-name {
+  padding: 10px;
+}
+.chat-user {
+  padding: 8px 10px;
+  border-bottom: 1px solid #e7eaec;
+}
+.chat-user a {
+  color: inherit;
+}
+.chat-view {
+  z-index: 20012;
+}
+.chat-users,
+.chat-statistic {
+  margin-left: -30px;
+}
+@media (max-width: 992px) {
+  .chat-users,
+  .chat-statistic {
+    margin-left: 0;
+  }
+}
+.chat-view .ibox-content {
+  padding: 0;
+}
+.chat-message {
+  padding: 10px 20px;
+}
+.message-avatar {
+  height: 48px;
+  width: 48px;
+  border: 1px solid #e7eaec;
+  border-radius: 4px;
+  margin-top: 1px;
+}
+.chat-discussion .chat-message.left .message-avatar {
+  float: left;
+  margin-right: 10px;
+}
+.chat-discussion .chat-message.right .message-avatar {
+  float: right;
+  margin-left: 10px;
+}
+.message {
+  background-color: #fff;
+  border: 1px solid #e7eaec;
+  text-align: left;
+  display: block;
+  padding: 10px 20px;
+  position: relative;
+  border-radius: 4px;
+}
+.chat-discussion .chat-message.left .message-date {
+  float: right;
+}
+.chat-discussion .chat-message.right .message-date {
+  float: left;
+}
+.chat-discussion .chat-message.left .message {
+  text-align: left;
+  margin-left: 55px;
+}
+.chat-discussion .chat-message.right .message {
+  text-align: right;
+  margin-right: 55px;
+}
+.message-date {
+  font-size: 10px;
+  color: #888888;
+}
+.message-content {
+  display: block;
+}
+.chat-discussion {
+  background: #eee;
+  padding: 15px;
+  height: 400px;
+  overflow-y: auto;
+}
+.chat-users {
+  overflow-y: auto;
+  height: 400px;
+}
+.chat-message-form .form-group {
+  margin-bottom: 0;
+}
+
+.text-black {
+    color: #000000;
+}

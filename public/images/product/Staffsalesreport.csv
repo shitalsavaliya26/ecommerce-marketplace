@@ -1,0 +1,5 @@
+"Order #","Order Date/Time","Order Status","Order Agent Name","Agent Code","Upline Agent Code","Customer Detail (NAME & H/P )",Address,"Courier Method","Payment Method","Postages Fee","Product name",Price,Quantity,Commission,"Upline Commission","Total Amount"
+ORDER029785,"16/03/2022 06:02:57",shipped,tester,TES453,ADMIN,"Test 2","Test 2,+601234567890,Add 2 Add 2,Ahmedbad,Gujarat,123456,Malaysia","J&T Express West","Manual bank transfer",0,初夜名器超肉厚,"RM 170.00","1 Qty","RM 0.00","RM 0.00","RM 170.00"
+"	","	","	","	"
+ORDER029573,"06/01/2022 02:16:19",shipped,tester,TES453,ADMIN,"William Foo","William Foo,+60138309819,Miri ,Miri,Sarawak,96000,Malaysia","Line Clear COD WEST",COD,0,迷你筋膜枪,"RM 100.00","1 Qty","RM 0.00","RM 0.00","RM 100.00"
+"	","	","	","	"
